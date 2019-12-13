@@ -45,7 +45,7 @@ public class TestController {
         list.add("666");
         redisUtil.setList("list" ,list);
         System.out.println(redisUtil.getList("list",0l));
-
+//dasds
 //        set
         Set<String> set = new HashSet<>();
         set.add("11");
