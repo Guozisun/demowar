@@ -87,6 +87,7 @@ public class TestDemo {
 //            newPicUrl = newPicUrl.replace(constants.getUploadPath(), constants.getNginxPath());
             return newPicUrl;
         }else {
+//            火腿霞
 //            if (!filePath.delete()){
 //                System.out.println("111");
 ////                logger.error("文件删除失败");
